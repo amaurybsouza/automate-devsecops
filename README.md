@@ -4,6 +4,8 @@ Inspired by the awesome-* trend on GitHub. This is a collection of documents, pr
 
 This list will not be fully comprehensive and will change as DevSecOps matures. We intend for it to be an awesome list that grows and changes as the community learns and improves how DevSecOps is implemented and adopted. To be included in this list, the information, tools, vendors or initiative must provide for Free or Open Source capabilities that help with the DevSecOps mission. Links that lead to a commercial aspect are noted with a (P).
 
+![image.png](attachment:0f496c23-c51a-467b-9187-584a62c30dcc:image.png)
+
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment. I would like to share some of the most expressive talks.
 
