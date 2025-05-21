@@ -10,3 +10,5 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 - [DevSecOps: Integrating Security in the Development Pipeline](https://www.youtube.com/watch?v=Rtk5zDiPzpA).
 - [Definindo sua pipeline de CI/CD no GitLab com o poderoso Checkov integrado ao Terraform - Amaury](https://www.youtube.com/watch?v=9QVWHMEdR4U&t=14s).
 - [Introdução Prática ao OWASP DevSecOps Guideline](https://www.youtube.com/watch?v=fLdNYmI7oAc).
+- [DevSecOps - Introdução ao Desenvolvimento Seguro - Joas Antonio dos Santos](https://www.youtube.com/watch?v=GXpDn4AwveM).
+- [DevSecOps: O Caminho da Segurança Ágil | Daniel Melo](https://www.youtube.com/watch?v=mod7ip-rkHY).
