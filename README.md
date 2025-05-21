@@ -12,3 +12,18 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 - [Introdução Prática ao OWASP DevSecOps Guideline](https://www.youtube.com/watch?v=fLdNYmI7oAc).
 - [DevSecOps - Introdução ao Desenvolvimento Seguro - Joas Antonio dos Santos](https://www.youtube.com/watch?v=GXpDn4AwveM).
 - [DevSecOps: O Caminho da Segurança Ágil | Daniel Melo](https://www.youtube.com/watch?v=mod7ip-rkHY).
+
+# DevSecOps Tools
+This collection of tools are useful in establishing a DevSecOps platform. We have divided the tools into several categories that help with the different divisions of DevSecOps.
+
+## Secret Management
+To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation. 
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog)
+- [Vault](https://www.hashicorp.com/pt/products/vault)
+- [Conjur](https://www.conjur.org/use-cases/ci-cd-pipelines/)
+
+## Continuous Integration & Delivery
+sasasas
+- [GitLab](https://about.gitlab.com) 
+- [Jenkins](http://jenkins-ci.org/)
+
