@@ -7,4 +7,6 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment. I would like to share some of the most expressive talks.
 
-- [ DevSecOps: Integrating Security in the Development Pipeline](https://www.youtube.com/watch?v=Rtk5zDiPzpA).
+- [DevSecOps: Integrating Security in the Development Pipeline](https://www.youtube.com/watch?v=Rtk5zDiPzpA).
+- [Definindo sua pipeline de CI/CD no GitLab com o poderoso Checkov integrado ao Terraform - Amaury](https://www.youtube.com/watch?v=9QVWHMEdR4U&t=14s).
+- [Introdução Prática ao OWASP DevSecOps Guideline](https://www.youtube.com/watch?v=fLdNYmI7oAc).
