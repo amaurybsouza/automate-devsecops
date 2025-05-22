@@ -20,6 +20,12 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 - [KCD Brasil](https://www.youtube.com/@KCD_Brazil)
 - [OWASP Dependency-Check: analisando vulnerabilidades em packages e bibliotecas de suas aplicações](https://www.youtube.com/watch?v=zna1gDpKOCo)
 
+## Courses
+Listando alguns cursos que eu peguei e são ótimos para você começar na jornada de DevSecOps.
+- [DevSeOps Fundamentals](https://www.udemy.com/course/devsecops-fundamentals/learn/lecture/32105618#overview).
+- [DevOps Foundations: DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops-17416896).
+- [Roadmap DevSecops](https://roadmap.sh/r/devsecops-88a05).
+
 # DevSecOps Tools
 This collection of tools are useful in establishing a DevSecOps platform. We have divided the tools into several categories that help with the different divisions of DevSecOps.
 
