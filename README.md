@@ -44,7 +44,8 @@ Alguns livros que eu gostei e ler e que agregaram muito no meu aprendizado e que
 Este conjunto de ferramentas é útil para estabelecer uma plataforma DevSecOps. Dividimos as ferramentas em diversas categorias que auxiliam nas diferentes áreas do DevSecOps.
 
 ## Secret Management
-Para dar suporte à segurança como código, credenciais e segredos confidenciais precisam ser gerenciados, protegidos, mantidos e rotacionados usando automação.- [TruffleHog](https://github.com/trufflesecurity/trufflehog)
+Para dar suporte à segurança como código, credenciais e segredos confidenciais precisam ser gerenciados, protegidos, mantidos e rotacionados usando automação.
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog)
 - [Vault](https://www.hashicorp.com/pt/products/vault)
 - [Conjur](https://www.conjur.org/use-cases/ci-cd-pipelines/)
 
