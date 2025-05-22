@@ -41,22 +41,28 @@ Alguns livros que eu gostei e ler e que agregaram muito no meu aprendizado e que
 - [Alice and Bob Learn Secure Coding](https://www.amazon.com.br/Alice-Bob-Learn-Secure-Coding/dp/1394171706/ref=pd_bxgy_thbs_d_sccl_1/133-7210045-6726819?pd_rd_w=dZllK&content-id=amzn1.sym.ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_p=ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_r=42R8W831PCXY7HMCM0BV&pd_rd_wg=b11TK&pd_rd_r=e61aa667-0659-469a-b7a0-7f687cd26f91&pd_rd_i=1394171706&psc=1).
 
 # DevSecOps Tools
-This collection of tools are useful in establishing a DevSecOps platform. We have divided the tools into several categories that help with the different divisions of DevSecOps.
+Este conjunto de ferramentas é útil para estabelecer uma plataforma DevSecOps. Dividimos as ferramentas em diversas categorias que auxiliam nas diferentes áreas do DevSecOps.
 
 ## Secret Management
-To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation. 
-- [TruffleHog](https://github.com/trufflesecurity/trufflehog)
+Para dar suporte à segurança como código, credenciais e segredos confidenciais precisam ser gerenciados, protegidos, mantidos e rotacionados usando automação.- [TruffleHog](https://github.com/trufflesecurity/trufflehog)
 - [Vault](https://www.hashicorp.com/pt/products/vault)
 - [Conjur](https://www.conjur.org/use-cases/ci-cd-pipelines/)
 
 ## Continuous Integration & Delivery
-Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently deliver apps to customers by introducing automation into the stages of app development. CI/CD is a solution to the problems integrating new code can cause for development and operations teams.
+Integração Contínua/Implantação Contínua (CI/CD) é um método para entregar aplicativos com frequência aos clientes, introduzindo automação nas etapas de desenvolvimento. CI/CD é uma solução para os problemas que a integração de novo código pode causar às equipes de desenvolvimento e operações.
 - [GitLab](https://about.gitlab.com) 
 - [Jenkins](http://jenkins-ci.org/)
+- [Travis-CI](https://www.travis-ci.com/)
+- [Argo](https://argoproj.github.io/)
+
+## Source Code Management
+Inclui também alguns provedores de código fonte que são muito utilizados no mercado como um todo.
+- [GitHub](https://github.com/)
+- [GitLab](https://about.gitlab.com)
+- [BitBucket](https://bitbucket.org/product/)
 
 ## SCA
-Discover some DevSecOps tools for application security with features like open source dependency scanning, real-time monitoring, and vulnerability remediation.
-
+Descubra algumas ferramentas DevSecOps para segurança de aplicativos com recursos como varredura de dependências de código aberto, monitoramento em tempo real e correção de vulnerabilidades.
 - [Snyk](https://snyk.io/pt-BR/)
 - [Dependency-Check](https://github-com.translate.goog/dependency-check/DependencyCheck?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
 - [Dependency-Track](https://github.com/DependencyTrack/dependency-track)
