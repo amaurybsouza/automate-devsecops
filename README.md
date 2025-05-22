@@ -66,3 +66,8 @@ Descubra algumas ferramentas DevSecOps para segurança de aplicativos com recurs
 - [Snyk](https://snyk.io/pt-BR/)
 - [Dependency-Check](https://github-com.translate.goog/dependency-check/DependencyCheck?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
 - [Dependency-Track](https://github.com/DependencyTrack/dependency-track)
+
+## SAST
+sasasas
+- [SonarQube](https://www.sonarsource.com/open-source-editions/sonarqube-community-edition/).
+- [Checkov](https://github.com/bridgecrewio/checkov) - Com foco em IaC, evite configurações incorretas na nuvem e encontre vulnerabilidades durante o tempo de construção em infraestrutura como código, imagens de contêiner e pacotes de código aberto.
