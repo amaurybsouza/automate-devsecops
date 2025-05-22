@@ -2,14 +2,14 @@
 
 Inspirado pela trend "awesome-*" no GitHub. Esta é uma coleção de documentos, apresentações, vídeos, materiais de treinamento, ferramentas, serviços e liderança geral que apoiam a missão do DevSecOps. Estes são os blocos de construção e informações essenciais que podem ajudá-lo a organizar um experimento DevSecOps ou a desenvolver seu próprio programa DevSecOps.
 
-Esta lista não será totalmente abrangente e mudará conforme o DevSecOps amadurece. Pretendo que seja uma lista incrível que cresça e mude à medida que a comunidade aprende e aprimora a forma como o DevSecOps é implementado e adotado. Para serem incluídos nesta lista, as informações, ferramentas, fornecedores ou iniciativas devem fornecer recursos gratuitos ou de código aberto que auxiliem na missão DevSecOps. 
+>Esta lista não será totalmente abrangente e mudará conforme o DevSecOps amadurece. Pretendo que seja uma lista incrível que cresça e mude à medida que a comunidade aprende e aprimora a forma como o DevSecOps é implementado e adotado. Para serem incluídos nesta lista, as informações, ferramentas, fornecedores ou iniciativas devem fornecer recursos gratuitos ou de código aberto que auxiliem na missão DevSecOps. 
 
 ![image.png](https://github.com/amaurybsouza/automate-devsecops/blob/main/images/image.png)
 
 ## Manifesto
 Abaixo o trecho do [manisfesto de DevSecops](https://www.devsecops.org/), onde é compartilhado os pontos que fazem da abordagem uma cultura de apŕoximar a segurança sempre na fase de desenvolvimento de software (SDLC). Peço por gentileza que você leie e aplique no seu dia a dia esse pensamento.
 
-Through Security as Code, we have and will learn that there is simply a better way for security practitioners, like us, to operate and contribute value with less friction. We know we must adapt our ways quickly and foster innovation to ensure data security and privacy issues are not left behind because we were too slow to change.
+> Through Security as Code, we have and will learn that there is simply a better way for security practitioners, like us, to operate and contribute value with less friction. We know we must adapt our ways quickly and foster innovation to ensure data security and privacy issues are not left behind because we were too slow to change.
 
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment. I would like to share some of the most expressive talks.
