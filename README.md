@@ -17,6 +17,8 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 - [Introdução Prática ao OWASP DevSecOps Guideline](https://www.youtube.com/watch?v=fLdNYmI7oAc).
 - [DevSecOps - Introdução ao Desenvolvimento Seguro - Joas Antonio dos Santos](https://www.youtube.com/watch?v=GXpDn4AwveM).
 - [DevSecOps: O Caminho da Segurança Ágil | Daniel Melo](https://www.youtube.com/watch?v=mod7ip-rkHY).
+- [KCD Brasil](https://www.youtube.com/@KCD_Brazil)
+- [OWASP Dependency-Check: analisando vulnerabilidades em packages e bibliotecas de suas aplicações](https://www.youtube.com/watch?v=zna1gDpKOCo)
 
 # DevSecOps Tools
 This collection of tools are useful in establishing a DevSecOps platform. We have divided the tools into several categories that help with the different divisions of DevSecOps.
@@ -32,3 +34,8 @@ Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently
 - [GitLab](https://about.gitlab.com) 
 - [Jenkins](http://jenkins-ci.org/)
 
+## SCA
+Discover some DevSecOps tools for application security with features like open source dependency scanning, real-time monitoring, and vulnerability remediation.
+
+- Snyk()
+- [Dependency-Check](https://github-com.translate.goog/dependency-check/DependencyCheck?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
