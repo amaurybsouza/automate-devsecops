@@ -1,13 +1,15 @@
 # Awesome DevSecOps   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Inspired by the awesome-* trend on GitHub. This is a collection of documents, presentations, videos, training materials, tools, services and general leadership that support the DevSecOps mission. These are the essential building blocks and tidbits that can help you to arrange for a DevSecOps experiment or to help you build out your own DevSecOps program.
+Inspirado pela trend "awesome-*" no GitHub. Esta é uma coleção de documentos, apresentações, vídeos, materiais de treinamento, ferramentas, serviços e liderança geral que apoiam a missão do DevSecOps. Estes são os blocos de construção e informações essenciais que podem ajudá-lo a organizar um experimento DevSecOps ou a desenvolver seu próprio programa DevSecOps.
 
-This list will not be fully comprehensive and will change as DevSecOps matures. We intend for it to be an awesome list that grows and changes as the community learns and improves how DevSecOps is implemented and adopted. To be included in this list, the information, tools, vendors or initiative must provide for Free or Open Source capabilities that help with the DevSecOps mission. Links that lead to a commercial aspect are noted with a (P).
+Esta lista não será totalmente abrangente e mudará conforme o DevSecOps amadurece. Pretendo que seja uma lista incrível que cresça e mude à medida que a comunidade aprende e aprimora a forma como o DevSecOps é implementado e adotado. Para serem incluídos nesta lista, as informações, ferramentas, fornecedores ou iniciativas devem fornecer recursos gratuitos ou de código aberto que auxiliem na missão DevSecOps. 
 
 ![image.png](https://github.com/amaurybsouza/automate-devsecops/blob/main/images/image.png)
 
 ## Manifesto
-Through Security as Code, we have and will learn that there is simply a better way for security practitioners, like us, to operate and contribute value with less friction. We know we must adapt our ways quickly and foster innovation to ensure data security and privacy issues are not left behind because we were too slow to change. Read the complete [manisfesto](https://www.devsecops.org/).
+Abaixo o trecho do [manisfesto de DevSecops](https://www.devsecops.org/), onde é compartilhado os pontos que fazem da abordagem uma cultura de apŕoximar a segurança sempre na fase de desenvolvimento de software (SDLC). Peço por gentileza que você leie e aplique no seu dia a dia esse pensamento.
+
+Through Security as Code, we have and will learn that there is simply a better way for security practitioners, like us, to operate and contribute value with less friction. We know we must adapt our ways quickly and foster innovation to ensure data security and privacy issues are not left behind because we were too slow to change.
 
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment. I would like to share some of the most expressive talks.
