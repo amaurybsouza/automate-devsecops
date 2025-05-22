@@ -25,6 +25,16 @@ Listando alguns cursos que eu peguei e são ótimos para você começar na jorna
 - [DevSeOps Fundamentals](https://www.udemy.com/course/devsecops-fundamentals/learn/lecture/32105618#overview).
 - [DevOps Foundations: DevSecOps](https://www.linkedin.com/learning/devops-foundations-devsecops-17416896).
 - [Roadmap DevSecops](https://roadmap.sh/r/devsecops-88a05).
+- [DevSecOps com GitHub Actions](https://www.udemy.com/course/devsecops-com-github-actions/learn/lecture/48433533#overview).
+- [DevSecOps Tutorial for Beginners | CI Pipeline with GitHub Actions and Docker Scout](https://www.youtube.com/watch?v=gLJdrXPn0ns).
+- [Web App Vulnerabilities - DevSecOps Course for Beginners](https://www.youtube.com/watch?v=F5KJVuii0Yw).
+
+## Books
+Alguns livros que eu gostei e ler e que agregaram muito no meu aprendizado e que pode ajudar você na mesma pegada da ideia de DevSecOps.
+- [DevOpsSec](https://www.oreilly.com/library/view/devopssec/9781491971413/).
+- [Docker Security](https://binarymist.io/publication/docker-security/).
+- [Securing DevOps](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8).
+- [The DevOps Handbook](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/).
 
 # DevSecOps Tools
 This collection of tools are useful in establishing a DevSecOps platform. We have divided the tools into several categories that help with the different divisions of DevSecOps.
