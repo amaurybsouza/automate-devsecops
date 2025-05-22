@@ -2,7 +2,7 @@
 
 Inspirado pela trend "awesome-*" no GitHub. Esta é uma coleção de documentos, apresentações, vídeos, materiais de treinamento, ferramentas, serviços e liderança geral que apoiam a missão do DevSecOps. Estes são os blocos de construção e informações essenciais que podem ajudá-lo a organizar um experimento DevSecOps ou a desenvolver seu próprio programa DevSecOps.
 
->Esta lista não será totalmente abrangente e mudará conforme o DevSecOps amadurece. Pretendo que seja uma lista incrível que cresça e mude à medida que a comunidade aprende e aprimora a forma como o DevSecOps é implementado e adotado. Para serem incluídos nesta lista, as informações, ferramentas, fornecedores ou iniciativas devem fornecer recursos gratuitos ou de código aberto que auxiliem na missão DevSecOps. 
+Esta lista não será totalmente abrangente e mudará conforme o DevSecOps amadurece. Pretendo que seja uma lista incrível que cresça e mude à medida que a comunidade aprende e aprimora a forma como o DevSecOps é implementado e adotado. Para serem incluídos nesta lista, as informações, ferramentas, fornecedores ou iniciativas devem fornecer recursos gratuitos ou de código aberto que auxiliem na missão DevSecOps. 
 
 ![image.png](https://github.com/amaurybsouza/automate-devsecops/blob/main/images/image.png)
 
