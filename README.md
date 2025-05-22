@@ -37,6 +37,8 @@ Alguns livros que eu gostei e ler e que agregaram muito no meu aprendizado e que
 - [Docker Security](https://binarymist.io/publication/docker-security/).
 - [Securing DevOps](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8).
 - [The DevOps Handbook](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/).
+- [Alice and Bob Learn Application Security](https://www.amazon.com.br/Alice-Bob-Learn-Application-Security/dp/1119687357/ref=tmm_pap_swatch_0#averageCustomerReviewsAnchor).
+- [Alice and Bob Learn Secure Coding](https://www.amazon.com.br/Alice-Bob-Learn-Secure-Coding/dp/1394171706/ref=pd_bxgy_thbs_d_sccl_1/133-7210045-6726819?pd_rd_w=dZllK&content-id=amzn1.sym.ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_p=ea5263f5-901f-4a74-9b73-3fc0e530788d&pf_rd_r=42R8W831PCXY7HMCM0BV&pd_rd_wg=b11TK&pd_rd_r=e61aa667-0659-469a-b7a0-7f687cd26f91&pd_rd_i=1394171706&psc=1).
 
 # DevSecOps Tools
 This collection of tools are useful in establishing a DevSecOps platform. We have divided the tools into several categories that help with the different divisions of DevSecOps.
