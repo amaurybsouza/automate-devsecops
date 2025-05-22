@@ -37,5 +37,6 @@ Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently
 ## SCA
 Discover some DevSecOps tools for application security with features like open source dependency scanning, real-time monitoring, and vulnerability remediation.
 
-- Snyk()
+- [Snyk](https://snyk.io/pt-BR/)
 - [Dependency-Check](https://github-com.translate.goog/dependency-check/DependencyCheck?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
+- [Dependency-Track](https://github.com/DependencyTrack/dependency-track)
