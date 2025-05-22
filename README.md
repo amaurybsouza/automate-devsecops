@@ -6,6 +6,9 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 
 ![image.png](https://github.com/amaurybsouza/automate-devsecops/blob/main/images/image.png)
 
+## Manifesto
+Through Security as Code, we have and will learn that there is simply a better way for security practitioners, like us, to operate and contribute value with less friction. We know we must adapt our ways quickly and foster innovation to ensure data security and privacy issues are not left behind because we were too slow to change. Check here the [manisfesto](https://www.devsecops.org/).
+
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment. I would like to share some of the most expressive talks.
 
@@ -25,7 +28,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 - [Conjur](https://www.conjur.org/use-cases/ci-cd-pipelines/)
 
 ## Continuous Integration & Delivery
-sasasas
+Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently deliver apps to customers by introducing automation into the stages of app development. CI/CD is a solution to the problems integrating new code can cause for development and operations teams.
 - [GitLab](https://about.gitlab.com) 
 - [Jenkins](http://jenkins-ci.org/)
 
