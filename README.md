@@ -7,7 +7,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 ![image.png](https://github.com/amaurybsouza/automate-devsecops/blob/main/images/image.png)
 
 ## Manifesto
-Through Security as Code, we have and will learn that there is simply a better way for security practitioners, like us, to operate and contribute value with less friction. We know we must adapt our ways quickly and foster innovation to ensure data security and privacy issues are not left behind because we were too slow to change. Check here the [manisfesto](https://www.devsecops.org/).
+Through Security as Code, we have and will learn that there is simply a better way for security practitioners, like us, to operate and contribute value with less friction. We know we must adapt our ways quickly and foster innovation to ensure data security and privacy issues are not left behind because we were too slow to change. Read the complete [manisfesto](https://www.devsecops.org/).
 
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment. I would like to share some of the most expressive talks.
